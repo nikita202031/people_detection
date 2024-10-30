@@ -19,6 +19,7 @@ people_detection_project/
 1.Клонируйте репозиторий и перейдите в папку проекта:
    git clone https://github.com/username/people_detection_project.git
    cd people_detection_project
+   
 2. Установите зависимости из файла requirements.txt:
   pip install -r requirements.txt
   
