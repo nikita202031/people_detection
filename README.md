@@ -11,8 +11,7 @@ people_detection_project/
 ├── src/
 │   └── main.py                # Главный файл программы
 ├── README.md                  # Описание проекта, установка и запуск
-├── requirements.txt           # Зависимости проекта
-└── .gitignore                 # Исключаемые файлы
+└── requirements.txt           # Зависимости проекта
 ```
 ## Установка
 
