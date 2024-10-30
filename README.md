@@ -5,7 +5,7 @@
 Данный проект выполняет детекцию людей на видеофайле `crowd.mp4` и сохраняет результат с обведенными рамками вокруг людей. Используется модель yolo11n для детекции объектов.
 
 ## Структура проекта
-
+'''
 people_detection_project/
 │
 ├── src/
@@ -16,7 +16,7 @@ people_detection_project/
    
 ## Установка
 
-1.Клонируйте репозиторий и перейдите в папку проекта:
+1. Клонируйте репозиторий и перейдите в папку проекта:
    git clone https://github.com/username/people_detection_project.git
    cd people_detection_project
    
