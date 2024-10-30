@@ -13,7 +13,6 @@ people_detection_project/
 │   └── crowd.mp4              # Видео с людьми
 ├── README.md                  # Описание проекта, установка и запуск
 ├── results.docx               # Выводы по результатам работы программы
-├── output_crowd_detection.mp4 # Результат работы программы
 └── requirements.txt           # Зависимости проекта
 ```
 ## Установка
